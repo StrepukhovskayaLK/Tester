@@ -2,14 +2,15 @@
 
 ## Обо мне 
 
-Привет! Меня зовут ``{name}``, я начинающий тестировщик. <br>
-В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
+Привет! 
+Меня зовут Любовь, я начинающий тестировщик. <br>
+В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения.
 <br>
 
 ## Навыки и технологии
-``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
-``SoapUI``, ``Android Studio``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``.
-
+``Jira``,``qase.io``,``SQL``,``Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
+``SoapUI``, ``Confluence``, ``Sitechco``, ``Charles``, ``Git``, ``Chrome DevTools``, <br>
+``Mockoon``, ``JMeter``.
 
 
 

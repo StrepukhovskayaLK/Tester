@@ -8,19 +8,21 @@
 <br>
 
 ## Навыки и технологии
-``Jira``,``qase.io``,``SQL``,``Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
-``SoapUI``, ``Confluence``, ``Sitechco``, ``Charles``, ``Git``, ``Chrome DevTools``, <br>
-``Mockoon``, ``JMeter``.
+``Jira``,``Confluence``,``qase.io``,``SQL``,``Postman``,``Trello``,``Fiddler``,<br>
+``SoapUI``,``Sitechco``, ``Charles``,``Chrome DevTools``,``Swagger``,``Mockoon``, <br>
+``JMeter``.
 
 
 
 ## Проекты
 
-<p> Проект 1: тест веб-приложения для учителей от Skyeng</p>
+<p> Проект 1: тест веб-приложения для учителей от Skyeng, вкладка “Расписание”</p>
 <p>Что нужно было сделать:<p>
 <ol>
-  <li>Задача №1</li>
-  <li>Задача №2.</li>
+  <li> Сделать тест-план</li>
+  <li> Подготовить тестовую документацию</li>
+  <li> Провести тестирование</li>
+  <li> Написать отчет о результатах тестирования</li>
 </ol>
 
 <p>Как решала(-а): краткое описание решения (автореферат)<p>

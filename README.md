@@ -1,3 +1,7 @@
+<a href="https://qa-bug-report3.atlassian.net/wiki/spaces/~63a87f9b7cde7bff9d7829f0/pages/12812289/1+2">Ссылка на проект</a>
+
+
+
 # Портфолио: инженер по тестированию
 
 ## Обо мне 

@@ -8,7 +8,7 @@
 
 ## Навыки и технологии
 ``Jira``,``Confluence``,``qase.io``,``SQL``,``Postman``,``Trello``,``Fiddler``,``SoapUI``,<br>
-``Sitechco``, ``Charles``,``Chrome DevTools``,``Swagger``,``Mockoon``,``JMeter``. <br>
+``Sitechco``, ``Charles``,``Chrome DevTools``,``Swagger``,``Mockoon``,``JMeter`` <br>
 
 ## Проекты
 ### **Проект 1. Тестирование веб-приложения для учителей от Skyeng, вкладка “Расписание”.** <br>

@@ -1,3 +1,12 @@
+[Приемочное тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Приемочное%20тестирование.pdf) <br>
+[Тестирование документации (требований)](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Тестирование%20документации.md) <br>
+[Smoke-тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Smoke-тестирование.pdf) <br>
+[Функциональное тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Функциональный%20чек-лист%20для%20новой%20функции%20(личные%20события).ru.pdf) <br>
+[Регрессионное тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Регресс%20тестирование.pdf) <br>
+[Тестирование API](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Тестирование%20API.json) <br>
+
+  
+  
 # Портфолио: инженер по тестированию
 
 ## Обо мне 
@@ -11,7 +20,8 @@
 ``Jira``,``Confluence``,``qase.io``,``SQL``,``Postman``,``Trello``,``Fiddler``,``SoapUI``,<br>
 ``Sitechco``, ``Charles``,``Chrome DevTools``,``Swagger``,``Mockoon``,``JMeter``. <br>
 
-
+[Smoke-тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Smoke-тестирование.pdf)
+[Приемочное тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Приемочное%20тестирование.pdf)
 
 
 ## Проекты
@@ -29,15 +39,19 @@
   <li> Провести тестирование</li>
   <li> Написать отчет о результатах тестирования</li>
 </ol>
+[Smoke-тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Smoke-тестирование.pdf)
+[Приемочное тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Приемочное%20тестирование.pdf)
 
-
-<p>В ходе работы были проведены следующие виды тестирования:<p>
-<p>- Приемочное тестирование <a href="https://fogen.notion.site/fogen/1-2-Web-REST-API-Postman-5f1700d11e1840b2a4e244b38cb0190f">Ссылка на проект</a>
-<p>- Тестирование документации (требований)
-<p>- Функциональное тестирование
-<p>- Smoke-тестирование
-<p>- Регрессионное тестирование
-<p>- Тестирование API
+<p>В ходе работы были проведены следующие виды тестирования:
+[Smoke-тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Smoke-тестирование.pdf)
+[Приемочное тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Приемочное%20тестирование.pdf)
+  
+<p>- Приемочное тестирование [Smoke-тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Приемочное%20тестирование.pdf)
+<p>- Тестирование документации (требований) [Smoke-тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Smoke-тестирование.pdf)
+<p>- Функциональное тестирование [Smoke-тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Smoke-тестирование.pdf)
+<p>  Smoke-тестирование [title](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Smoke-тестирование.pdf)
+<p>- Регрессионное тестирование [Smoke-тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Smoke-тестирование.pdf)
+<p>- Тестирование API [Smoke-тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Smoke-тестирование.pdf)
 
   
 > <a href="https://qa-bug-report3.atlassian.net/wiki/spaces/~63a87f9b7cde7bff9d7829f0/pages/12812289/1+2">Ссылка на проект</a>

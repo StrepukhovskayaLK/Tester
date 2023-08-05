@@ -76,7 +76,7 @@ P.S. Для начала работы с методами вам потребу�
 
 [Задание](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№3/Финальное%20задание%20SQL.pdf) <br>
 
-[Запросы SQL](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№3/Финальное%20задание%20SQL.pdf) <br>
+[Запросы SQL](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№3/запросы_формат%20sql.sql) <br>
 
 
 ## Контактная информация

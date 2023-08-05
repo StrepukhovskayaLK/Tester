@@ -1,12 +1,3 @@
-[Приемочное тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Приемочное%20тестирование.pdf) <br>
-[Тестирование документации (требований)](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Тестирование%20документации.md) <br>
-[Smoke-тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Smoke-тестирование.pdf) <br>
-[Функциональное тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Функциональный%20чек-лист%20для%20новой%20функции%20(личные%20события).ru.pdf) <br>
-[Регрессионное тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Регресс%20тестирование.pdf) <br>
-[Тестирование API](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Тестирование%20API.json) <br>
-
-  
-  
 # Портфолио: инженер по тестированию
 
 ## Обо мне 
@@ -20,55 +11,32 @@
 ``Jira``,``Confluence``,``qase.io``,``SQL``,``Postman``,``Trello``,``Fiddler``,``SoapUI``,<br>
 ``Sitechco``, ``Charles``,``Chrome DevTools``,``Swagger``,``Mockoon``,``JMeter``. <br>
 
-[Smoke-тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Smoke-тестирование.pdf)
-[Приемочное тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Приемочное%20тестирование.pdf)
-
-
 ## Проекты
-
-<p> Проект 1: Тестирование веб-приложения для учителей от Skyeng, вкладка “Расписание”. <br>
+**Проект 1: Тестирование веб-приложения для учителей от Skyeng, вкладка “Расписание”.** <br>
 
   
 Необходимо было протестировать работу нового функционала - "Личные события" во вкладке «Расписание». <br>
 Данный функционал позволяет преподавателям использовать личные события для собственных встреч, а также в качестве напоминания о запланированном событии. 
 
-<p>Задачи:<p>
+
+**Задачи:**<br>
 <ol>
   <li> Сделать тест-план</li>
   <li> Подготовить тестовую документацию</li>
   <li> Провести тестирование</li>
   <li> Написать отчет о результатах тестирования</li>
-</ol>
-[Smoke-тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Smoke-тестирование.pdf)
-[Приемочное тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Приемочное%20тестирование.pdf)
+</ol> <br>
 
-<p>В ходе работы были проведены следующие виды тестирования:
-[Smoke-тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Smoke-тестирование.pdf)
-[Приемочное тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Приемочное%20тестирование.pdf)
-  
-<p>- Приемочное тестирование [Smoke-тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Приемочное%20тестирование.pdf)
-<p>- Тестирование документации (требований) [Smoke-тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Smoke-тестирование.pdf)
-<p>- Функциональное тестирование [Smoke-тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Smoke-тестирование.pdf)
-<p>  Smoke-тестирование [title](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Smoke-тестирование.pdf)
-<p>- Регрессионное тестирование [Smoke-тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Smoke-тестирование.pdf)
-<p>- Тестирование API [Smoke-тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Smoke-тестирование.pdf)
+**В ходе работы были проведены следующие виды тестирования:**<br><br>
+[Приемочное тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Приемочное%20тестирование.pdf) <br>
+[Тестирование документации (требований)](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Тестирование%20документации.md) <br>
+[Smoke-тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Smoke-тестирование.pdf) <br>
+[Функциональное тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Функциональный%20чек-лист%20для%20новой%20функции%20(личные%20события).ru.pdf) <br>
+[Регрессионное тестирование](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Регресс%20тестирование.pdf) <br>
+[Тестирование API](https://github.com/StrepukhovskayaLK/Tester/blob/main/Проект%20№1/Тестирование%20API.json) <br>
 
-  
-> <a href="https://qa-bug-report3.atlassian.net/wiki/spaces/~63a87f9b7cde7bff9d7829f0/pages/12812289/1+2">Ссылка на проект</a>
-  (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
-> <p> логин: dehico8286@fsouda.com </p>
-> <p> пароль: 16Jan2023 </p>
- 
- 
- 
- 
- <p>Выводы (итоги):<p>
-<ol>
-  <li>Итог №1</li>
-  <li>Итог №2</li>
-</ol>
 
-ВЫВОД:
+**ВЫВОД:**
 
  <li> Новый функционал системы (личные события) не готов к выпуску, т.к. не работает важная функция - создание личных событий в прошедшем месяце. А также в процессе внедрения нового функционала сломался старый - создание уроков.
 
